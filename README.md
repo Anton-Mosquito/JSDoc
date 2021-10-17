@@ -14,5 +14,3 @@ npm install
 ```
 npm run start
 ```
-
-4) Готово! Подпишись на мой [youtube](https://www.youtube.com/channel/UClDDVLu0Cj_o9Y5D2ilCtdQ)
